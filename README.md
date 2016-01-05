@@ -1,4 +1,2 @@
-# Electron-Apps
-Hello! 
- App built with Electron 
- by Cheng
+# Electron-Apps(Hello!)
+First test app built with Electron by Cheng
